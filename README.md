@@ -1,2 +1,4 @@
 # gitDemo
-Fist git repo 
+First git repo
+<br>
+Author - Rishik 
